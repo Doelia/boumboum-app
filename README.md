@@ -50,7 +50,7 @@ Pages intégrées :
 
 ## Liens connexes
 
-- [Vidéo de présesation du projet par  Benjamin Code](https://www.youtube.com/watch?v=JDl3P7wZw50&list=PL8x4xEF7H2YPU7ZFIACGiZmOEHY49IZ9E&ab_channel=BenjaminCode)
+- [Vidéo de présensation du projet par Benjamin Code](https://www.youtube.com/watch?v=JDl3P7wZw50&list=PL8x4xEF7H2YPU7ZFIACGiZmOEHY49IZ9E&ab_channel=BenjaminCode)
 - [Maquettes Figma](https://www.figma.com/community/file/1316792772224536230/boumboum)
 - [Code source backend](https://github.com/Benjamin-Code-YouTube/boumboum-back)
 
