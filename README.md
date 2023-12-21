@@ -27,7 +27,7 @@ Vous pouvez facilement tester l'application boumboum sur votre téléphone sans 
 ## Développement
 
 L'application utilise expo, vous n'avez donc pas besoin d'installer un environnement android ou ios.
-suffit d'installer l'application [Expo GO](https://expo.dev/client) sur votre téléphone.
+Il suffit d'installer l'application [Expo GO](https://expo.dev/client) sur votre téléphone.
 
 Lancer l'application en mode développement :
 ```
@@ -56,4 +56,4 @@ Pages intégrées :
 
 ## Crédits
 
-Si vous récupérez mon travail, merci de créditer "Stéphane Wouters" et de m'en notifier.
+Vouz pouvez utiliser  mon travail librement, sous la simple condition de me créditer (Stéphane Wouters) et de m'en notifier.
